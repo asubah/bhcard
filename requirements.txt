@@ -1,0 +1,9 @@
+# Card Reading Dependencies
+pyscard>=2.0.2       # Smart card library for Python
+
+# Image Processing
+pillow>=9.0.0        # Python Imaging Library for photo/signature display
+
+# Arabic Text Support
+arabic-reshaper>=3.0.0  # Properly reshape Arabic text
+python-bidi>=0.4.2      # Bidirectional text algorithm

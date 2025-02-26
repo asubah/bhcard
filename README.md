@@ -1,8 +1,6 @@
 # BHIDCard
 قراءة بيانات البطاقة الذكية البحرينية باستخدام البايثون
 
-# Requiremets
-
 ## Debian-based Systems
 ```
 # PC/SC Smart Card middleware
